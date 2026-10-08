@@ -1,0 +1,3 @@
+Holy Panda recordings by Thomas Lai, MIT license.
+Source: https://github.com/hainguyents13/mechvibes/tree/master/src/audio/holy-pandas
+Converted to mono 48 kHz float PCM for playback. Original recordings are MP3.
